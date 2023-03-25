@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Sayak 👋
 
+![](https://komarev.com/ghpvc/?username=hacky1997&style=flat-square)
 <!--
 **hacky1997/hacky1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
