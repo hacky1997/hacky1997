@@ -11,7 +11,6 @@ An innovative QA Automation Engineer with a passion for crafting seamless digita
 - **Web Development:** HTML, CSS, JavaScript, jQuery, PHP
 - **Testing Expertise:** Regression, Sanity, Smoke, Functional Testing
 - **Methodologies:** Agile, Kanban
-- **Security:** Penetration Testing, Malware Analysis, Binary Exploitation
 
 ### 👨‍💻 What I Do
 - **🔧 Build Robust Automation Frameworks:** Design and implement scalable and efficient testing frameworks to ensure software quality and reliability.
