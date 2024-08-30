@@ -20,5 +20,5 @@ An innovative QA Automation Engineer with a passion for crafting seamless digita
 - **🤝 Contribute to Open Source:** Engage with the open-source community by contributing to projects, collaborating with other developers, and sharing knowledge.
 - **🚀 Explore AI Automation:** Pursue innovative approaches in AI automation, continuously expanding skills and integrating new technologies into workflows.
 
-### 💻 Can I use your code for my Projects? 
+### 💻 Can You use my code for Your Projects? 
 - Yes! absolutely. You are 100% free to use my projects, and I won't mind if you make money from them 💰.
