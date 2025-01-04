@@ -6,11 +6,13 @@
 An innovative QA Automation Engineer with a passion for crafting seamless digital experiences. Currently at Deloitte USI, Sayak combines technical expertise with a love for Automation, AI and open-source contributions. Always pushing boundaries, always learning.
 
 ### 🚀 Key Skills
-- **QA Automation:** BDD, POM, Cucumber, Maven, Selenium, JUnit, Jira, Jenkins, Docker, CI/CD, Rest API
+- **QA Automation:** Cucumber, Design Pattern, Maven, Selenium, JUnit, Jenkins, Docker, CI/CD, Rest API
+- **Design Patterns:** POM, Builder, Strategic, Factory, Builder 
 - **Programming Languages:** Java, JavaScript, Python, Bash, Shell
 - **Web Development:** HTML, CSS, JavaScript, jQuery, PHP
-- **Testing Expertise:** Regression, Sanity, Smoke, Functional Testing
+- **Testing Expertise:** Regression, Sanity, Smoke, Functional, and Integration Testing
 - **Methodologies:** Agile, Kanban
+- **Project & Defect Management:** JIRA
 
 ### 👨‍💻 What I Do
 - **🔧 Build Robust Automation Frameworks:** Design and implement scalable and efficient testing frameworks to ensure software quality and reliability.
@@ -21,4 +23,4 @@ An innovative QA Automation Engineer with a passion for crafting seamless digita
 - **🚀 Explore AI Automation:** Pursue innovative approaches in AI automation, continuously expanding skills and integrating new technologies into workflows.
 
 ### 💻 Can You use my code for Your Projects? 
-- Yes! absolutely. You are 100% free to use my projects, and I won't mind if you make money from them 💰.
+- Yes! Absolutely. You are 100% free to use my projects, and I won't mind if you make money from them 💰.
